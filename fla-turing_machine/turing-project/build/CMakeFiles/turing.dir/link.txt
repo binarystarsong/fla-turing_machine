@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/turing.dir/input.cpp.o CMakeFiles/turing.dir/turing.cpp.o CMakeFiles/turing.dir/turingmachine.cpp.o  -o turing 

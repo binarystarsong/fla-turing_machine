@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuan/文档/形式语言与自动机/turing/turing project/input.cpp
+iostream
+-
+input.h
+/home/yuan/文档/形式语言与自动机/turing/turing project/input.h
+turingmachine.h
+/home/yuan/文档/形式语言与自动机/turing/turing project/turingmachine.h
+
+/home/yuan/文档/形式语言与自动机/turing/turing project/input.h
+turingmachine.h
+/home/yuan/文档/形式语言与自动机/turing/turing project/turingmachine.h
+map
+-
+iostream
+-
+vector
+-
+
+/home/yuan/文档/形式语言与自动机/turing/turing project/turingmachine.h
+string
+-
+cstring
+-
+iostream
+-
+sstream
+-
+vector
+-
+fstream
+-
+algorithm
+-
+stdio.h
+-
+

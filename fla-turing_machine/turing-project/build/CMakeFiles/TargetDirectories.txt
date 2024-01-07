@@ -1,0 +1,3 @@
+/home/yuan/文档/形式语言与自动机/turing/turing project/build/CMakeFiles/rebuild_cache.dir
+/home/yuan/文档/形式语言与自动机/turing/turing project/build/CMakeFiles/edit_cache.dir
+/home/yuan/文档/形式语言与自动机/turing/turing project/build/CMakeFiles/turing.dir
